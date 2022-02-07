@@ -1,5 +1,3 @@
-# getting started
-
 # fantasypunk
 
 Let’s get playing this game.
@@ -68,6 +66,7 @@ When you play **fantasypunk**, these things are always true:
 
 - The world is alive and vibrant, and it doesn't revolve around the party;
 - Folk are complicated, conflicted and diverse, but are mostly kind and willing to help;
+- The Party is fundamentally good, even if conflicted, troubled or reluctant;
 - Magic is wondrous and wild, even if commonplace;
 - The gods are silent and distant, hardly, if ever, interfering in the affairs of mortals;
 - No individuals, folk or cultures are single-minded, unilateral or exclusive;
@@ -91,6 +90,50 @@ When you play **fantasypunk**, these things are always true:
 - Always ask questions. Always answer questions;
 - Help everyone else get the spotlight...
 - ... but shine on when you have it.
+
+---
+
+game start loop
+
+- ... you are at the bonfire/rest/whatever, in the “dungeon”
+- what kind of party are you? - choose type
+- create a character - identity & origin
+    - come up with name and looks (or leave it for later) and come up with ancestry
+    - use Kith & culture worksheet
+    - come up with origin from the table
+    - go through most character creation
+    - obligations and debts? get from party worksheet?
+    - principles & agenda - 1 individual principle (suggestions) and 1 agenda (from party worksheet
+- dungeon: roll mission table
+    - dungeon worksheet
+    - use hex flower
+    - every time fill 6 items in the hex flower, something happens?
+    - guide through dungeon exploration
+    - create a “boss” or big trouble
+    - go through challenge
+- return to local community
+    - make “create community” move
+    - “toxic powers” worksheet
+    - party obligatins/debt?
+    - NPCs?
+    - downtime
+    - next quest/objective/delve
+
+Form a party
+
+When you form a party decede as a group whether you are on the loose or on the run, then choose the respective playbook
+
+On the Run
+
+Exiles, criminals, outcasts etc, maybe you are not but someone influential thinks you are.
+
+In Hiding or On the Road
+
+### Set the Stage
+
+When you **set the stage,** decide what 
+
+---
 
 # Playing the Game
 
@@ -187,11 +230,8 @@ Your presence is a basic description of your character, including looks, poise, 
 
 Do what you want as long as you don't write anything racist, ableist or otherwise bigoted.
 
-<aside>
 📖 Come up with a name, pronouns and a brief description of your character's presence.
 Tip: try using emotions or personality features, or avoiding colour words for aesthetics.
-
-</aside>
 
 ## Origins
 
@@ -200,10 +240,7 @@ Tip: try using emotions or personality features, or avoiding colour words for ae
 
 When fleshing out the world around you, your Origins will help the GM come up with the right questions or answers for your character.
 
-<aside>
 📖 Roll or choose your Origins on the table below, then write a short description of what it means.
-
-</aside>
 
 | Roll | Woe | Status | Occupation |
 | --- | --- | --- | --- |
@@ -214,12 +251,9 @@ When fleshing out the world around you, your Origins will help the GM come up wi
 | 5 | Wanted | Community | Aide |
 | 6 | Infamous | Lead | Mage |
 
-<aside>
 🎲 **Knack**
 
 Spend 1 Hold to ask the GM a question about what your character should know or should be able to do based on your Background.
-
-</aside>
 
 ## Heritage Tags
 
@@ -230,7 +264,6 @@ Heritage Tags allow you to do things most others can't, such as seeing in the da
 
 Heritage Tags are noticeable by others.
 
-<aside>
 📖 Roll or choose 2 Heritage Tags on the table below. Alternatively, you can come up with your own.
 
 1. Infravision Sight
@@ -239,9 +272,7 @@ Heritage Tags are noticeable by others.
 4. Stone Skin
 5. Luminous Aura
 6. Translucent Body
-</aside>
 
-<aside>
 🎲 **Boon and Bane**
 
 Once per session, you can use a Boon and a Bane.
@@ -249,8 +280,6 @@ Once per session, you can use a Boon and a Bane.
 **Boon**: Turn a 5 or below into a 6. Describe which Tag helps you succeed.
 
 **Bane**: Turn a 4 or higher into a 3. Describe which Tag is hindering you and clear and recover 1 Hold.
-
-</aside>
 
 ## Traits
 
@@ -265,40 +294,26 @@ As you navigate the world, you engage its peoples, its problems and its solution
 - **Precise**: When you approach the world with mastery and knowledge;
 - **Insightful**: when you approach the world through its subtle veils.
 
-<aside>
 📖 Choose a trait to Highlight and a trait to Suppress.
 
-</aside>
-
-<aside>
 🎲 A **Highlighted Trait** adds 2d6 to your dice pool. A **Suppressed Trait** adds none. The others add 1d6.
 
-</aside>
-
-<aside>
 🎲 **Rolling dice**: take all of the dice provided by your Traits, Baggage or other things and roll them all at once. Keep the two highest dice and add them together.
 Critical Hit: if the result is a 12, it’s a critical hit;
 Solid Hit: if the result is 10 or above, it’s a solid hit;
 Messy Hit: if the result is 7, 8 or 9, it’s a messy hit;
 Miss: if the result is 6 or below, it’s a miss.
 
-</aside>
-
 ## Baggage
 
 > *I thought that wand of yours was just for show. Good thing those goons thought so too.*
-> 
 
 Baggage represents the relevant things you carry with you, material and otherwise, such as your Principles, a Sword, or Cunning.
 
 As you adventure and face challenges, you may take harm from a battle, be frustrated by an obstacle or feel lost, weakened and beat up by many adversities, causing you to lose Hold of these very things you've come to rely on.
 
-<aside>
 📖 Write down 5 things to create your Baggage: something that you wield, wear, seek, fear and hide. Give each item 3 Hold.
 
-</aside>
-
-<aside>
 🎲 When you make a roll, you may choose an item from your Baggage to rely on.
 
 Add one die to the pool per Hold, then cross 1 Hold, unless you roll a critical hit.
@@ -309,23 +324,15 @@ When you cross out all Aspects across all of your Baggage, you become Crushed.
 
 When you erase all items from your Baggage, you become Unburdened.
 
-</aside>
-
 ## Bonds & Debts
 
 > *Ach! Fine! But if I help you this time, you better come at the drop of a hat when I need you, you hear me?*
 > 
 
-<aside>
 📖 Create a Bond with an NPC and a Debt with another, then create a Bond with the player to your left (when in person) or below your name (when online).
 
-</aside>
-
-<aside>
 🎲 To track down Bonds and Debts, write down the name of the character the new connection is with and a sentence describing the bond or debt. 
 Deepening a bond or a debt adds another sentence to it, and paying off either asks the player to erase a sentence.
-
-</aside>
 
 ## **Moves**
 
@@ -336,9 +343,4 @@ Moves are special ways to engage the fiction. Most of them require rolling dice,
 
 Essentially, there are two types of Moves: Basic Moves, which are available to all players, and Special Moves, which each player chooses from the options available to refine their characters.
 
-<aside>
 📖 Choose 3 Special Moves.
-
-</aside>
-
-[bonds ](getting%20started%2097cb6839eff642d0ac0886fff81d467e/bonds%2048dfc1bc1b96492181d2207a86f85ac8.md)
