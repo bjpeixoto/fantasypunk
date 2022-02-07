@@ -16,7 +16,7 @@ Your personal, individual set of items, values, assets and skills. You can have 
 
 When you start the game, determine what those items are: something you wield, wear, fear, seek and hide.
 
-Hold: Each item in your baggage starts with 0 weight.
+Hold: Each item in your baggage starts with 0 Weight.
 
 When you rely on your baggage, add 1 Weight to the item you relied on.
 
@@ -26,7 +26,7 @@ When all items in your Baggage become Burdens, you become Overwhelmed.
 
 ## Moves
 
-Most of the core procedures of the game fall into this category. Each move is a small block of rules that apply to a specific situation.  When you trigger a move, follow its instructions.
+Most of the core procedures of the game fall into this category. Each move is a small block of rules that apply to a specific situation. When you trigger a move, follow its instructions.
 
 ## Debts
 

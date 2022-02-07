@@ -6,10 +6,7 @@ These moves are available to all party members at all times.
 
 # Expression Moves
 
-<aside>
-📍 Currently this section of the text assumes that you have more familiarity with TTRPGs than other parts of the game.
-
-</aside>
+> 📍 Currently this section of the text assumes that you have more familiarity with TTRPGs than other parts of the game.
 
 When you express your thoughts, feelings and actions, most of the time you do that through an expression move.
 
@@ -103,31 +100,35 @@ Describe how the keys you picked factor in the outcome.
 
 # Baggage Moves
 
-## Gain and Lose Hold
+## Rely on Your Baggage
 
-When you **lose Hold** erase as many Hold points as established from an appropriate item in your Baggage.
+When you **rely on your baggage**, choose which item from your baggage you are relying on that is not a Burden and add 1 Weight to it. Then for every 1 Weight on that item, add 1d6 to your dice pool, up to 3d6.
 
-When you **gain Hold** add as many Hold points as established to an appropriate item in your Baggage. 
+## Add or Drop Weight
 
-When you lose all Hold in any item, that item becomes a Burden until you shed it or until it regains Hold.
+When you **add Weight**, add as many Weight points as established to an appropriate item in your Baggage.
+
+When you **drop Weight**, remove as many Weight points as established from an appropriate item in your Baggage.
+
+As long as you have 3 Weight on any single item in your Baggage, it is a Burden, and you can't rely on it anymore.
 
 ## Shed a Burden
 
-When you **shed a burden**, describe how you break, damage, give up or otherwise lose an item from your baggage and erase it. You recover 3 Hold to distribute however you want among the remaining items.
+When you **shed a burden**, describe how you break, damage, yield or otherwise lose an item from your baggage, then erase that item. Drop up to 3 Weight among the remaining Baggage items.
 
-## Lose Baggage
+## Give up some Baggage
 
-When you **lose an item from your baggage** as a trade-off of a choice, a consequence of something you did, or something that hit you, erase it from your Baggage. You lose any Hold it still had.
+When you **give up some Baggage** as a trade-off of a choice, a consequence of something you did, or something that hit you, erase an item from your Baggage.
 
 ## Overwhelmed
 
 When you **are overwhelmed by your Burdens**, choose one:
 
-- You lose something precious (erase an item from your Baggage);
-- You become callous and distant (suppress Kind);
-- You are thoroughly disheartened (suppress Brave);
+- You lose something precious (lose an item from your Baggage);
+- You are callous or indifferent (suppress Kind);
+- You are disheartened or fearful (suppress Brave);
 - Your spirit is broken (suppress Curious);
-- You are shaken and unfocused (suppress Precise);
+- You are shaken or  unfocused (suppress Precise);
 - Your senses are dulled and rough (suppress Insightful).
 
 ## Unburdened
@@ -136,14 +137,14 @@ When you **shed all of your burdens and lose all of your baggage**, you are unbu
 
 As you set yourself free from your baggage, choose whether you **Retire** or whether you **Change**.
 
-Retire:
+### Retire:
 
 - Retire this character and answer one of the questions below:
 - Do you find yourself unable to carry on? Why?
 - Do you die? How?
 - Are you somehow removed to another place, literally or not, so that you cannot stay with the party for an indeterminate time? Where?
 
-Change:
+### Change:
 
 You are out of action until someone can take you somewhere safe to pick up the pieces. Maybe you are carried by your companions, or you are separated and find yourself in a safe place later or something else.
 
@@ -162,7 +163,7 @@ You are out of action until someone can take you somewhere safe to pick up the p
 
 ## Struggle
 
-When you **struggle** **to avoid badness**, tell the party and the GM what consequence you intend to lessen or avoid, and agree with the others how it should happen. Then erase an item from your Baggage.
+When you **struggle to avoid badness**, tell the party and the GM what consequence you intend to lessen or avoid, and agree with the others how it should happen. Then give up an item from your Baggage.
 
 ## Push Your Luck
 
