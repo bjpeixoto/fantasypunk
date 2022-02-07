@@ -16,19 +16,21 @@ Your personal, individual set of items, values, assets and skills. You can have 
 
 When you start the game, determine what those items are: something you wield, wear, fear, seek and hide.
 
-Hold: Each item in your baggage starts with 3 Hold.
+Hold: Each item in your baggage starts with 0 weight.
 
-When you spend or lose all Hold from an Item it becomes a Burden.
+When you rely on your baggage, add 1 Weight to the item you relied on.
+
+When any item accumulates 3 Weight, it becomes a Burden, and you can't rely on it for the time being.
 
 When all items in your Baggage become Burdens, you become Overwhelmed.
 
 ## Moves
 
-The core procedures of the game. Each move is a small block of rules that apply to a specific situation.  When you trigger a move, follow its instructions.
+Most of the core procedures of the game fall into this category. Each move is a small block of rules that apply to a specific situation.  When you trigger a move, follow its instructions.
 
 ## Debts
 
-A form of bond with an entity that must be repaid somehow. When your debt grows too much, that entity will find a way to collect.
+A form of bond with an entity that must be repaid somehow. When a debt grows too large, that entity will find a way to collect.
 
 ## Obligations
 
