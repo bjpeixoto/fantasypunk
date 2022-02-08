@@ -1,5 +1,3 @@
-# basic moves
-
 # Basic Moves
 
 These moves are available to all party members at all times. 
@@ -10,13 +8,15 @@ These moves are available to all party members at all times.
 
 When you express your thoughts, feelings and actions, most of the time you do that through an expression move.
 
-When you are Kind, Brave, Curious, Precise or Insightful, take 1d6. If you express a trait that is Highlighted, take 2d6 instead. If that trait is suppressed, take 1d6 instead.
+When you are Kind, Brave, Curious, Mindful or Insightful, take 1d6. If you express a trait that is Highlighted, take 2d6 instead. If that trait is suppressed, take 1d6 instead.
 
 You can only roll for a move if you have at least 2d6. So if you need more dice, you might need to rely on your Baggage or Push Your Luck. 
 
-When a specialized move asks you to be Kind, Brave, Curious, Precise or Insightful, roll as many d6 as established and continue following that move’s instructions.
+When a specialized move asks you to be Kind, Brave, Curious, Mindful or Insightful, roll as many d6 as established and continue following that move’s instructions.
 
 Expression Moves are open-ended, which means you must decide what you wish to do and how you approach that choice. Discuss with the GM and the rest of the Party whether you wish to interact with the world fictionally, mechanically or both, and then roll.
+
+> Tip - Mechanics you could interact with: a clock, an angle, a burden, an obligation, a debt, the dice.
 
 ### When should you make these moves?
 
@@ -24,19 +24,19 @@ Expression moves cover a very wide array of actions, so it is tempting to make t
 
 On the other hand, there’s plenty that your characters should know or be able to do as second nature, without even thinking about it.
 
-When you need to make an Expression Move, ask the GM and the rest of the party the questions below:
+When you need to make an Expression Move, discuss with the party and the GM which of these statements you believe are true.
 
-- Is the task at hand out of your depth, mastery or background?
-- Are you under the pressure of time or something else as you do it?
-- Do you lack a crucial tool, resource or information to do it?
+- I have enought practice or experience at this I don't need to think about it.
+- I have time and freedom to do it leisurely.
+- I am empowered or supplied by the knowledge and tools necessary.
 
-If your answer was **no** to all questions, you don’t need to make the move. Discuss with the GM and your party members how you do the thing you want to.
+If all statements are true, you should be able to do what you set out to without a roll. Discuss with the GM and your party members how you do the thing you want to.
 
-If your answer was **no** to two questions, make your move and take +1d6 to your roll.
+If two statement is true, take +1d6 forward.
 
-If your answer was **no** to one question, make your move as written.
+If one statement is true, make your move and roll the dice as usual.
 
-If you answered **yes** to all questions, discuss with the group whether you should be able to make that move at all.
+If none of these statements are true, discuss with the group whether you should be able to make that move at all.
 
 ## Be Kind
 
@@ -46,7 +46,10 @@ Decide how you are interacting with the fiction, with the game mechanics, or bot
 
 On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
 
-Keys: heal, treat, aid, relate, bond, empathize, deescalate, trust, inspire, support, sway, disarm.
+Keys:
+- heal, treat, aid;
+- relate, empathize, inspire, support;
+- sway, disarm, placate.
 
 Describe how the keys you picked factor in the outcome;
 
@@ -58,19 +61,10 @@ Decide how you are interacting with the fiction, with the game mechanics, or bot
 
 On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
 
-Keys: defend, protect, face against, stand against, seize, oppose, react, divert, boldness, daring;
-
-Describe how the keys you picked factor in the outcome.
-
-## Be Precise
-
-**When you are precise**, take stock of your preparation and resourcefulness to find the way.
-
-Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
-
-On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
-
-Keys: fix, persuade, tweak, disarm, prepare, plan, expect, position, resources, divert.
+Keys: 
+- protect, confront, oppose;
+- endure, resist, seize, divert;
+- encourage, enbolden, empower.
 
 Describe how the keys you picked factor in the outcome.
 
@@ -82,7 +76,26 @@ Decide how you are interacting with the fiction, with the game mechanics, or bot
 
 On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
 
-Keys: path, threat, opportunity, safety, secret, seek, question.
+Keys: 
+- observe, notice, search;
+- meddle, probe, test;
+- contact, request, engage.
+path, threat, opportunity, safety, secret, seek, question.
+
+Describe how the keys you picked factor in the outcome.
+
+## Be Mindful
+
+**When you are mindful**, observe the world around you to find your way forward.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+
+Keys: 
+- respect, watch, learn;
+- disarm, dissuade, divert;
+- prepare, plan, position.
 
 Describe how the keys you picked factor in the outcome.
 
@@ -94,7 +107,10 @@ Decide how you are interacting with the fiction, with the game mechanics, or bot
 
 On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
 
-Keys: Sense, feel, wonder, attune, mystery, marvel, portent, presage, hunch, sign.
+Keys: 
+- wonder, portend, imagine;
+- sense, probe, trust, respect;
+- attune, empower, inspire.
 
 Describe how the keys you picked factor in the outcome.
 
@@ -128,7 +144,7 @@ When you **are overwhelmed by your Burdens**, choose one:
 - You are callous or indifferent (suppress Kind);
 - You are disheartened or fearful (suppress Brave);
 - Your spirit is broken (suppress Curious);
-- You are shaken or  unfocused (suppress Precise);
+- You are shaken or  unfocused (suppress Mindful);
 - Your senses are dulled and rough (suppress Insightful).
 
 ## Unburdened
@@ -230,7 +246,7 @@ When travelling through the world, you enter the Exploration phase. You can use 
 
 ## Prepare
 
-When you prepare for the journey ahead, be Precise.
+When you prepare for the journey ahead, be Mindful.
 
 ## Set Out
 
