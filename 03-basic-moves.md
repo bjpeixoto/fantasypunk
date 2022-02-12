@@ -1,4 +1,4 @@
-# Basic Moves A
+# Basic Moves
 
 These moves are available to all party members at all times.
 
