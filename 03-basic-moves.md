@@ -32,7 +32,7 @@ When you need to make an Expression Move, discuss with the party and the GM whic
 
 If all statements are true, you should be able to do what you set out to without a roll. Discuss with the GM and your party members how you do the thing you want to.
 
-If two statement is true, take +1d6 forward.
+If two statements are true, take +1d6 forward.
 
 If one statement is true, make your move and roll the dice as usual.
 
@@ -44,7 +44,7 @@ If none of these statements are true, discuss with the group whether you should 
 
 Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
 
-On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+On a solid hit, choose two keys. On a messy hit choose one. On a miss, **brace yourself**.
 
 Keys:
 - heal, treat, aid;
@@ -59,7 +59,7 @@ Describe how the keys you picked factor in the outcome;
 
 Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
 
-On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+On a solid hit, choose two keys. On a messy hit choose one. On a miss, **brace yourself**.
 
 Keys: 
 - protect, confront, oppose;
@@ -74,13 +74,12 @@ Describe how the keys you picked factor in the outcome.
 
 Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
 
-On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+On a solid hit, choose two keys. On a messy hit choose one. On a miss, **brace yourself**.
 
 Keys: 
 - observe, notice, search;
 - meddle, probe, test;
 - contact, request, engage.
-path, threat, opportunity, safety, secret, seek, question.
 
 Describe how the keys you picked factor in the outcome.
 
@@ -90,7 +89,7 @@ Describe how the keys you picked factor in the outcome.
 
 Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
 
-On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+On a solid hit, choose two keys. On a messy hit choose one. On a miss, **brace yourself**.
 
 Keys: 
 - respect, watch, learn;
@@ -175,11 +174,24 @@ You are out of action until someone can take you somewhere safe to pick up the p
 - Something you: must recover, must give up, must understand anew;
 - (idea: Choose a “destiny”?)
 
+## Alternative move concept: Find Release
+
+when you lose all burdens, find release
+
+when you find release, look at your core values
+
+add one and/or change one
+
+
 # Auxiliary Moves
+
+## Trust Fate
+
+When you **trust fate** to get you where you’re supposed to go, roll 2d6.
 
 ## Struggle
 
-When you **struggle to avoid badness**, tell the party and the GM what consequence you intend to lessen or avoid, and agree with the others how it should happen. Then give up an item from your Baggage.
+When you **struggle to avoid badness**, tell the party and the GM what consequence you intend to lessen or avoid, and agree with the others how it should happen. Then **give up** an item from your Baggage.
 
 ## Push Your Luck
 
@@ -187,17 +199,14 @@ When you push your luck, answer the questions below:
 
 Is it worth more obligations? (Gain an Obligation);
 
-Is it worth harm or loss to myself? (Lose 1 Hold or all bonus ongoing and forward);
+Is it worth harm or loss to myself? (Add 1 Weight or lose all bonus ongoing and forward);
 
 Is it worth messing with fate? (You get -1d6 ongoing until the end of the session when you Trust Fate);
 
-Roll between 1d6 for every question you answered yes.
+Roll 1d6 for every question you answered yes.
 
-Check your results against the move you made. Regardless of whether you hit or miss, for every dice result of 1 you choose a consequence from the questions you answered yes to.
+Check your results against the move you made. Regardless of whether you hit or miss, for every dice result of 1 you choose a consequence implied by the questions you answered yes to.
 
-## Trust Fate
-
-When you **trust fate** to get you where you’re supposed to go, roll 2d6.
 
 ## Brace Yourself
 
@@ -205,16 +214,16 @@ When you **brace yourself**, the GM will make a move against you, as hard as the
 
 ## Offer Help
 
-When you offer help to a party member and they accept, add +1d6 to their dice pool. Both of you bear the consequences and mishaps of a messy hit or a miss.
+When you **offer help** to a party member and they accept, add +1d6 to their dice pool. Both of you bear the consequences and mishaps of a messy hit or a miss.
 
 ## Get in the way
 
-When you get in the way of a party member, you can give them a choice. Ask them whether they fail because of you.
+When you **get in the way** of a party member, you can give them a choice. Ask them whether they fail because of you.
 
 If they say yes, they choose one. If they say no, you choose one.
 
 - Write an obligation to them;
-- You lose 1 Hold.
+- You add 1 Weight.
 
 If you give them no choice, then you take both.
 
@@ -222,7 +231,7 @@ If you give them no choice, then you take both.
 
 When the party faces a Challenge as a group, agree on a party member to be the Lead and a party member to be the Support. They can both be the same. 
 
-The Lead chooses a Trait to roll and each other party member joining the effort adds 1d6 to the pool. Anyone can add an additional 1d6 to the pool for every 1 Hold they spend.
+When the Lead makes a roll, each other party member joining the effort adds 1d6 to the pool. Anyone can add an additional 1d6 to the pool for every 1 Weight they add.
 
 Declare what Angle you wish to address and roll your Team Work.
 
@@ -282,6 +291,8 @@ On a hit, gain 1 token. On a sound hit choose 2 from below. On a messy hit choos
 
 Spend 1 token to Return to an area you’ve visited before Spend 3 tokens to find the heart of the area, or locate someone or something you are attempting to track down.
 
+idea: the area tells history (maybe myriad hex tyle?)
+
 ## Catch your Breath
 
 When you **catch your breath** during exploration, each party member describes 1 risk of resting here.
@@ -290,8 +301,7 @@ You get as many tokens as the dice you rolled.
 
 Any party member can spend these tokens to do the following:
 
-- Recover 3 Hold;
-- Recover a Burden you crossed out;
+- Let go of 3 Weight;
 - Recover a spent Heritage Tag use.
 
 For this move, lower results are more desirable. 
@@ -312,7 +322,7 @@ If that Obligation has a condition that may render it impossible to fulfil, ment
 
 If that obligation has any sort of time or resource constraint, start an appropriate clock.
 
-If the clock runs out or if you render it impossible to fulfil, brace yourself.
+If the clock runs out or if you render it impossible to fulfil, **brace yourself**.
 
 ## Clear an Obligation
 
@@ -379,9 +389,3 @@ maybe change one for another? or suppress one to highlight another?
 ## Seek Community
 
 ## Seek Closure
-
----
-
-[Previous](https://www.notion.so/3-basic-rules-bb574f85aaf74f89a603eda2eba7c438) - [Next](special%20moves%201300ce42d7ef42ceb8af474291ee6ed9.md)
-
-[moves inspo](basic%20moves%200a2dff67e86f4f21ac6b84b8928ef70f/moves%20inspo%2061b9259e87ab476e93eb20770c442c75.md)
