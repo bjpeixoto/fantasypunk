@@ -182,7 +182,6 @@ when you find release, look at your core values
 
 add one and/or change one
 
-
 # Auxiliary Moves
 
 ## Trust Fate
