@@ -34,11 +34,8 @@ Finally, we need to set expectations for the game and to set boundaries for safe
 
 There is a whole chapter in **fantasypunk** that covers safety tools, at least superficially. But it includes links for you to make further research on your own.
 
-<aside>
-📍 Safety is a group responsibility and shouldn’t fall upon the shoulders of any individual player alone. 
+> 📍 Safety is a group responsibility and shouldn’t fall upon the shoulders of any individual player alone. 
 It may be that the player hosting the game takes it upon themselves to have more responsibilities than the others, but that doesn’t mean they are supposed to do it all by themselves.
-
-</aside>
 
 **In a shortlist you need:**
 
@@ -91,50 +88,6 @@ When you play **fantasypunk**, these things are always true:
 - Help everyone else get the spotlight...
 - ... but shine on when you have it.
 
----
-
-game start loop
-
-- ... you are at the bonfire/rest/whatever, in the “dungeon”
-- what kind of party are you? - choose type
-- create a character - identity & origin
-    - come up with name and looks (or leave it for later) and come up with ancestry
-    - use Kith & culture worksheet
-    - come up with origin from the table
-    - go through most character creation
-    - obligations and debts? get from party worksheet?
-    - principles & agenda - 1 individual principle (suggestions) and 1 agenda (from party worksheet
-- dungeon: roll mission table
-    - dungeon worksheet
-    - use hex flower
-    - every time fill 6 items in the hex flower, something happens?
-    - guide through dungeon exploration
-    - create a “boss” or big trouble
-    - go through challenge
-- return to local community
-    - make “create community” move
-    - “toxic powers” worksheet
-    - party obligatins/debt?
-    - NPCs?
-    - downtime
-    - next quest/objective/delve
-
-Form a party
-
-When you form a party decede as a group whether you are on the loose or on the run, then choose the respective playbook
-
-On the Run
-
-Exiles, criminals, outcasts etc, maybe you are not but someone influential thinks you are.
-
-In Hiding or On the Road
-
-### Set the Stage
-
-When you **set the stage,** decide what 
-
----
-
 # Playing the Game
 
 The game effectively begins with the group deciding about the kind of adventure all of you want to have, and what safety tools the group is most comfortable with.
@@ -145,15 +98,9 @@ Then creating the individual player characters, or Party Members, which is a sim
 
 Once everyone is ready, create the starting point of the adventure. All players, Party and GM, get to have a say here. If the group is feeling adventurous, then pick the Themes and Domains at random by rolling dice.
 
-<aside>
-🎲 Create a location by choosing 2 Themes and a Domain from each Theme. You can choose the same Theme twice but not the same Domain. Name the location.
+> 🎲 Create a location by choosing 2 Themes and a Domain from each Theme. You can choose the same Theme twice but not the same Domain. Name the location.
 
-</aside>
-
-<aside>
-📍 You can use a different procedure or an altogether different game to create a new location. There are a ton of great games such as [I’m sorry did you say street magic](https://seaexcursion.itch.io/street-magic), [Wanderhome](https://possumcreekgames.itch.io/wanderhome), [Awen](https://levikornelsen.itch.io/awen), [Premise](https://randylubin.itch.io/premise-setting-character-plot), some [Alone Hacks](https://itch.io/c/1059591/azukails-alone-among-the-stars-hacks), and so on.
-
-</aside>
+> 📍 You can use a different procedure or an altogether different game to create a new location. There are a ton of great games such as [I’m sorry did you say street magic](https://seaexcursion.itch.io/street-magic), [Wanderhome](https://possumcreekgames.itch.io/wanderhome), [Awen](https://levikornelsen.itch.io/awen), [Premise](https://randylubin.itch.io/premise-setting-character-plot), some [Alone Hacks](https://itch.io/c/1059591/azukails-alone-among-the-stars-hacks), and so on.
 
 # Party Concepts
 
