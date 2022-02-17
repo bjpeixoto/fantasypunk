@@ -1,4 +1,4 @@
-# Stonetouhed
+# Stonetouched Lore
 
 when the children of Lua come of age, they gather around the Stones. A set of semi-circular rocks that sprout from Fae, the ground.
 
@@ -40,7 +40,7 @@ powers - strong/weak
 - animal trait?
 - horns/antlers/claws/hooves
 
----
+# Character Creation Summry
 
 The coming of age ceremony is finally upon you.
 
