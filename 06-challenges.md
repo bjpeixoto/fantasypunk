@@ -1,5 +1,3 @@
-# challenges
-
 # Challenges
 
 Sometimes problems require more than a simple, direct approach.
@@ -10,7 +8,7 @@ The prosecutor at a trial, a group of armed soldiers, a troll in the middle of a
 
 ## Creating a Challenge
 
-1. Determine the nature of the Challenge the party will face. 
+1. Determine the nature of the Challenge the party will face.
     
     Examples:
     
