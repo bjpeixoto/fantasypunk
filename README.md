@@ -3,7 +3,7 @@ A fantasy RPG Powered by the Apocalypse about exploring the world, meeting peopl
 
 # Attribution
 
-**fantasypunk** started as a hack of [**dungeonpunk**](https://acegiak.itch.io/dungeonpunk), by [Ash McAllan](https://twitter.com/acegiak), one of the coolest approaches to fantasy games Powered by the Apocalypse I've seen.
+**fantasypunk** started out as a hack of [**dungeonpunk**](https://acegiak.itch.io/dungeonpunk), by [Ash McAllan](https://twitter.com/acegiak), one of the coolest approaches to fantasy games Powered by the Apocalypse I've seen.
 
 It's now become something else as it's grown in  avery different direction from Ash's **dungeonpunk**, focusing on what being an adventurer means.
 
