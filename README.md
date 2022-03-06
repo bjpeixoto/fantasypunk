@@ -1,9 +1,11 @@
 # fantasypunk
-A fantasy RPG Powered by the Apocalypse
+A fantasy RPG Powered by the Apocalypse about exploring the world, meeting people, delving into dungeons and watching for each other.
 
 # Attribution
 
-**fantasypunk**, by Gabriel Caetano, started as a hack of [dungeonpunk](https://acegiak.itch.io/dungeonpunk), [Ash McAllan](https://twitter.com/acegiak), one of the coolest approaches to fantasy games Powered by the Apocalypse I've seen.
+**fantasypunk** started as a hack of [**dungeonpunk**](https://acegiak.itch.io/dungeonpunk), by [Ash McAllan](https://twitter.com/acegiak), one of the coolest approaches to fantasy games Powered by the Apocalypse I've seen.
+
+It's now become something else as it's grown in  avery different direction from Ash's **dungeonpunk**, focusing on what being an adventurer means.
 
 By playing **fantasypunk** you agree to punch fascists and stomp on bigotry. You will respect your fellow players and their needs, concerns, and traumas. At any point for any reason, a player can veto elements of the narrative that are being brought in. You will not use my words in this game to justify harming others.
 
