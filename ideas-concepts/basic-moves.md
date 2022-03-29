@@ -1,3 +1,5 @@
+# concept 1
+
 When you make a move, you express *intentions*.
 
 The point is that you go for an action and that action caries an intent.
@@ -16,7 +18,7 @@ Options for working the concept later:
 - your intentions are not what they seem
 - you betray a sort of "selfish" interest
 
-## Be Kind
+### Be Kind
 
 **When you are kind**, ask the GM or another player what their character, a place or another entity needs. Describe how you intend to fulfil that need, then roll Kind.
 
@@ -32,5 +34,115 @@ Results, Actions, Intentions.
 - sway, disarm, placate.
 
 Describe how the keys you picked factor in the outcome;
+
+On a miss, **brace yourself**.
+
+### Be Kind
+
+**When you are kind**, ask the GM or another player what their character, a place or another entity needs. Ask yourself how you could fulfil that need, then roll Kind.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one.
+
+Keys:
+- heal, treat, aid;
+- relate, empathize, inspire, support;
+- sway, disarm, placate.
+
+Describe how the keys you picked factor in the outcome;
+
+On a miss, **brace yourself**.
+
+### REWRITE
+
+Back to this one, there is something interesting here. 
+
+on any hit, you do the thing. 
+
+On a strong hit choose a question from the good list, on a weak hit, chose a question from both good and ba lists. 
+
+you can add 1d6 to your roll by every question from the bad list you answer before you roll
+
+### GOOD
+- benefits to others
+- someone likes what you do idk
+- you get it all
+
+### BAD
+- you harm someone
+- you make someone's life harder or worse
+- you don't get it all
+
+
+
+- your actions bring an unforeseen benefit to others;
+- your 
+
+
+- how can this benefit others? 
+- what did you hope to accomplish or get across?
+- how did you take others in consideration when you chose your course of actions?
+
+- how can this cause trouble or make life difficult to others? 
+- what did you not consider could harm others?
+- how did it fall short, fall through or made it less accesibe  to others?
+
+I could add a line to have the PC let others pick the answers because that cold allow pcs to resolve the move faster by delegating or outsourcing especially when they are in a rut
+
+# concept 2
+
+## outline
+
+When you are TRAIT, choose a key to describe your intentions and roll. Add +1d6 if you choose one option before rolling.
+
+On any hit, your words or deeds come across as intended, included any risks embraced.
+
+Critical hit, evade embraced risk.
+
+On a weak hit, choose 1, in addition to any risk you have already embraced.
+
+- frustration: you fail or hesitate
+- embarrassment: someone gets pissed
+- loss: you lose position, an advantage, or a resource
+
+On a miss brace yourself.
+
+## Be Kind
+
+**When you are kind**, choose a key to describe your intentions and roll. Add +1d6 if you choose one option before rolling.
+
+Keys:
+- heal, treat, aid;
+- relate, empathize, inspire, support;
+- sway, disarm, placate.
+
+On any hit, your words or deeds come across as intended, included any risks embraced.
+
+On a critical hit, avoid one embraced risk.
+
+On a weak hit, choose 1, in addition to any risk you have already embraced.
+
+Risks:
+- frustration: you fail or hesitate
+- embarrassment: someone gets pissed
+- loss: you lose position, an advantage, or a resource
+
+On a miss, **brace yourself**.
+
+## Be Brave
+
+**When you are brave**, describe how you stand against wrong or harm to yourself or to others.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one.
+
+Keys:
+- protect, confront, oppose;
+- endure, resist, seize, divert;
+- encourage, emmbolden, empower.
+
+Describe how the keys you picked factor in the outcome.
 
 On a miss, **brace yourself**.
