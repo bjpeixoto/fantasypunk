@@ -179,13 +179,13 @@ Keys:
 
 Fine Hit: Ask the GM or another player what their character, a place or another entity needs the most.
 
-Ordinary Hit: Choose one of the options below:
-- you make a **mistake**, wether you realize it now or later;
-- you create a **commotion** or attract unwanted attention;
-- you raise **suspicion** or give reason for someone's trust to be shaken;
-- you create a **misunderstanding** or make others doubt your intentions and motives;
-- there is a **delay** as you hesitate, find an obstacle or opposition, or results are not immediate;
-- there is an unforeseen **complication**, unexpected cost or otherwise something that makes things problematic.
+Ordinary Hit: Choose one of the options below (or roll 1d6):
+1. you make a **mistake**, wether you realize it now or later;
+2. you create a **commotion** or attract unwanted attention;
+3. you raise **suspicion** or give reason for someone's trust to be shaken;
+4. you create a **misunderstanding** or make others doubt your intentions and motives;
+5. there is a **delay** as you hesitate, find an obstacle or opposition, or results are not immediate;
+6. there is an unforeseen **complication**, unexpected cost or otherwise something that makes things problematic.
 
 On a miss, **brace yourself**.
 
