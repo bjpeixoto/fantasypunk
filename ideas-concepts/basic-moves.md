@@ -146,3 +146,132 @@ Keys:
 Describe how the keys you picked factor in the outcome.
 
 On a miss, **brace yourself**.
+
+# concept 3
+
+Be X
+
+When you are X, roll dice.
+
+10+: act immediately to (choose 1):
+
+_list keys_
+
+7-9: act as on a 10+, but:
+- delayed outcome
+- make a commotion
+- take a loss
+- add an Angle [challenge-related]
+etc.
+
+On a miss, brace yourself.
+
+## Be Kind
+
+When you are kind, add 1d6 to the pool.
+
+On any hit, choose 1 key to set your intentions and describe how you hope to achieve them through words or deeds.
+
+Keys:
+- heal, treat, aid;
+- relate, empathize, inspire, support;
+- sway, disarm, placate.
+
+Fine Hit: Ask the GM or another player what their character, a place or another entity needs the most.
+
+Ordinary Hit: Choose one of the options below:
+- you make a **mistake**, wether you realize it now or later;
+- you create a **commotion** or attract unwanted attention;
+- you raise **suspicion** or give reason for someone's trust to be shaken;
+- you create a **misunderstanding** or make others doubt your intentions and motives;
+- there is a **delay** as you hesitate, find an obstacle or opposition, or results are not immediate;
+- there is an unforeseen **complication**, unexpected cost or otherwise something that makes things problematic.
+
+On a miss, **brace yourself**.
+
+# move ref
+
+## Be Kind
+
+**When you are kind**, ask the GM or another player what their character, a place or another entity needs. Ask yourself how you could fulfil that need, then roll Kind.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one.
+
+Keys:
+- heal, treat, aid;
+- relate, empathize, inspire, support;
+- sway, disarm, placate.
+
+Describe how the keys you picked factor in the outcome;
+
+On a miss, **brace yourself**.
+
+## Be Brave
+
+**When you are brave**, describe how you stand against wrong or harm to yourself or to others.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one.
+
+Keys:
+- protect, confront, oppose;
+- endure, resist, seize, divert;
+- encourage, emmbolden, empower.
+
+Describe how the keys you picked factor in the outcome.
+
+On a miss, **brace yourself**.
+
+## Be Curious
+
+**When you are curious**, tell the other players and the GM what you wish to know more about.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one.
+
+Keys:
+- observe, notice, search;
+- meddle, probe, test;
+- contact, request, engage.
+
+Describe how the keys you picked factor in the outcome.
+
+On a miss, **brace yourself**.
+
+## Be Mindful
+
+**When you are mindful**, observe the world around you to find your way forward.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one.
+
+Keys:
+- respect, watch, learn;
+- disarm, dissuade, divert;
+- prepare, plan, position.
+
+Describe how the keys you picked factor in the outcome.
+
+On a miss, **brace yourself**.
+
+## Be Insightful
+
+**When you are insightful**, open your senses to the wondrous and otherworldly.
+
+Decide how you are interacting with the fiction, with the game mechanics, or both, and discuss it with the GM and the rest of the Party.
+
+On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+
+Keys:
+- wonder, portend, imagine;
+- sense, probe, trust, respect;
+- attune, empower, inspire.
+
+Describe how the keys you picked factor in the outcome.
+
+On a miss, **brace yourself**.
