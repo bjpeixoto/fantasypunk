@@ -385,6 +385,180 @@ Carving out a living through means that are at best frowned upon sees you at the
 
 # Special Moves
 
+### Confidante
+
+When a party member seeks your advice, tell them what you think the best course of action is. If they go along, they choose one:
+
+- They roll +1d6 for as long as they follow that course of action;
+- They get 1 XP;
+
+### Slay
+
+When you take decisive and direct action to put an opponent down with words or deeds, erase a burden and instantly kill them or shut them down.
+
+### Against the odds:
+
+When you’re backed in a corner, be Brave. On a sound hit, choose 1:
+
+- You have an unexpected ally. Ask the GM who it is.
+- You have a desperate opportunity. Ask the GM what it is.
+- You have a sudden realization. Ask or tell the GM what it is.
+- You find reserves of speed, strength, or endurance. Tell the GM what you can do.
+- You have a piece of amazing luck. Ask or tell the GM what it is.
+
+On a messy hit, the GM chooses 1 for you. On a miss, you are good and cornered. Brace yourself.
+
+### Invoke the Old Powers
+
+When you invoke the Old Powers, consider what is the effect you desire and ask the table what price is to be paid for invoking such powers, then roll Insightful.
+
+On a sound hit, you get 2 tokens. On a messy hit, you get 1. Spend tokens, one for one, on the following options:
+
+- the effect you desire comes to pass;
+- you retain control;
+- you avoid paying nature’s price.
+
+
+
+### Shape Change
+
+**Scatter track: ☐ ☐ ☐ ☐ ☐**
+
+You can transform into an animal that you have studied extensively, and back again. While in this form, your inventory is a list of that animal's natural features.
+
+Choose two tags for that animal, replacing your own personal tags while you're in its shape.
+
+Scatter: When you spend long periods of time in animal shape, or when you endure stress, exhaustion or harm, you start to forget how much of you is you and how much of you is the animal, until you forget completely.
+
+- Gain 1 scatter when you spend a whole shift in animal form;
+- Gain 1 scatter when you take a serious Blow;
+- Gain 1 scatter when you lose all Hold on a burden;
+- Gain 1 scatter when you erase a burden.
+
+At 3 scatter you need help to regain your true form. At 5 scatter you become an animal and even if you are turned back by someone powerful enough to revert your condition, it changes you. Erase one of your personal tags and replace it with another.
+
+### Stealth
+
+When you avoid mundane scrutiny, roll Precise.
+
+On a hit, you start a clock. You may remain unnoticed until you tick all of the sections of that clock. On a critical hit, you start a 6 clock. On a sound hit, you start a 4 clock. On a messy hit, you start a 4 clock and must pick one of these options:
+
+- You use your party as a distraction and remain free to move and act unnoticed;
+- You may act and remain unnoticed only as long as you stay where you are;
+- You can move unnoticed only as long as you do nothing;
+- The clock is hidden from you.
+
+You can clear two segments of the clock by picking a new option from above.
+
+You can tick more segments of the clock to gain certain benefits:
+
+- 2 ticks to aggravate a blow you inflict;
+- 1 tick to give +1d6 to a party member;
+- 2 ticks to add +1 to your initiative (when using the Confront a Foe move);
+- 2 ticks to give yourself +1d6;
+- 5 ticks to use the slay move, even if you don't have it;
+- 1 to misdirect someone's attention.
+
+On a miss, brace yourself.
+
+### Luck of the Daring
+
+**track ☐ ☐ ☐**
+
+When you choose this move for the first time, it starts at level 1. You can choose this move again to raise it by a level up to level 3.
+
+When you roll the dice, you can spend 1 Hold to re-roll all dice that rolled a number equal or lower than this move's level.
+
+### I Know a Guy
+
+When you need to accomplish a very specific task or acquire a very specific thing and those are beyond your means, seek an old contact and roll Curious.
+
+On a hit, you get what you want.
+
+- It will get you in trouble;
+- You'll have to prove you are trustworthy;
+- The result will be incomplete, lacking or of poor quality;
+- It will take a lot of time;
+- Write a debt with them.
+
+### Shiny
+
+Once per session, you gain 1 XP when you treat something dangerous as a mundane curiosity.
+
+### Explorer
+
+Once per session, gain 1XP when you guide the party into or out of danger.
+
+### Giving
+
+Once per session, gain 1 XP if you've helped someone at a personal cost.
+
+---
+
+ideas from https://afurness.itch.io/move-mondays-2022
+
+Birdwatcher
+
+When you hide in plain sight to gather information, roll.
+
+On a 12+, tell the GM one piece of information you have learned. They must incorporate it, and you create an advantage in a future scene.
+
+On a 10+, you observe something important. The GM will tell you what it is.
+
+On a 7-9, you observe something important, but you are compromised. The GM tells you what you learn, and you create a disadvantage in a future scene.
+
+On a 6-, you are caught. You must retire this character.
+
+Forbidden Knowledge
+
+When you use your innate connection to the cosmos to gain insight into a situation, roll.
+
+On a 10+ choose 2. On a 7-9, choose 1. The GM must answer honestly.
+
+What about this do I see that no one else has noticed?
+What evidence is there that a supernatural element is at play?
+What essential truth about this situation is being obscured?
+
+Unleash the Beast
+
+Once per session, you may choose to transform into the beast inside you. Describe what that looks like. Roll.
+On a 10+, you transform as intended and maintain full control of the beast. You create an advantage for yourself. Choose two:
+
+temporarily increase one stat
+take advantage on your next roll
+ask the GM a question that they must answer honestly
+On a 7-9, you only partially transform. Describe how you are half-person, half-beast. Name one benefit you have from this half-transformation. The GM will give you a complication.
+
+On a 6-, you fully transform, but do not have control of the beast. Narrate how you make the situation worse.
+
+Let the Right One In
+
+When you share your true monstrous nature with someone, tell them a fundamental truth about yourself. If you do, you may choose one:
+
+Clear a complication or condition
+Gain a useful resource. The GM tells you what it is.
+State a fact about the situation that you know to be true. The GM must incorporate this fact. This fact cannot definitely solve or end the primary story/mystery/question.
+
+Practical Magic
+
+When you use magic to assist with a mundane task, roll.
+
+On a 10+, you succeed.
+
+On a 7-9, you succeed but your magic is spent. The GM will tell you when you can use your magic again.
+
+On a 6-, something goes terribly wrong. Ask another player what happens.
+
+Quarrels over Quills
+
+When you try to solve a problem by arguing, name what you hope to accomplish. The GM will tell you what happens if you fail. If you wish to proceed, roll.
+
+On a 10+ you succeed. The person you are arguing with will fulfill one request, provided it does not cause harm to themselves or another person.
+
+On a 7-9, you succeed, but the person you were arguing with now has a vendetta against you.
+
+---
+
 ---
 
 # Challenges
@@ -457,7 +631,7 @@ These few simple principles will help you tell enjoyable and compelling stories 
 - Give Them What They Want;
 - Say “But...”.
 
-# 4. The First Scene
+# The First Scene
 
 Once all of the PCs are ready, it's time for the GM to introduce them to the first scene.
 
@@ -468,36 +642,3 @@ Start by coming up with an interesting situation that immediately places the PCs
 Maybe they are taking part in a chase, front, back, or both! Alternatively, they could have been cornered by someone, literally or not.
 
 Some of the most engaging charged situations involve one or more of the PCs personally and intimately - a close friend in trouble, a request by an ally, a personal enemy facing them, and so on. The more PCs get wrapped up from the beginning, the better.
-
-# Threads to Pull
-
-# Ending a Scene
-
-# Finishing a Chapter
-
-# Preparing Next Chapter
-
-
-
-
-# Special Moves
-### Dance With Shadows
-List
-
-# 
-
-# Venturing
-
-## Venture Forth
-
-## Fateful Encounter
-
-# Delving
-
-## Delve
-
-## Out of the Pan
-
-## Into the Fire
-
-# Roleplaying
